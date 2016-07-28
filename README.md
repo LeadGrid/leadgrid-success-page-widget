@@ -17,15 +17,7 @@ Introduction goes here.
   bundle install
   ```
 
-3. Configure the widget
-
-Open the Rails console with this line:
-```rails console```
-
-Spree::Config.site_id = 'teste'; Spree::Config.language = 'pt-br';
-
-
-4. Restart your server
+3. Restart your server
 
   If your server was running, restart it so that it can find the assets properly.
 
