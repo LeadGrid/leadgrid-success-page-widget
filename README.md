@@ -7,7 +7,7 @@ Introduction goes here.
 
 1. Add this extension to your Gemfile with this line:
   ```ruby
-  gem 'spree_leadgrid_success_widget', github: 'LeadGrid/spree_leadgrid_success_page_widget', branch: '3-1-stable'
+  gem 'spree_leadgrid_success_widget', github: 'LeadGrid/spree-leadgrid-success-page-widget', branch: '3-1-stable'
   ```
 
   The `branch` option is important: it must match the version of Spree you're using.
